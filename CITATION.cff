@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this reference, please cite it as below, and cite the WHO and WHO-ISoP source documents."
+title: "vaccine-pv-matrix: a structured reference for vaccine pharmacovigilance built on the WHO-ISoP curriculum, GVSB2.0 and the Smart PV strategy"
+version: 0.1.0
+date-released: 2026-10-20
+authors:
+  - family-names: Cheon
+    given-names: Myeong-eun
+    affiliation: "Korea Disease Control and Prevention Agency (KDCA)"
+license:
+  - CC-BY-NC-SA-4.0
+  - CC-BY-NC-4.0
+repository-code: "https://github.com/SuahCheon/vaccine-pv-matrix"
+url: "https://suahcheon.github.io/vaccine-pv-matrix/"
+keywords:
+  - pharmacovigilance
+  - vaccine safety
+  - AEFI
+  - WHO-ISoP curriculum
+  - Global Vaccine Safety Blueprint
+  - knowledge graph
+references:
+  - type: article
+    title: "The WHO-ISoP Pharmacovigilance Curriculum: 2026 Update"
+    journal: "Drug Safety"
+    year: 2026
+    doi: 10.1007/s40264-026-01717-y
+    authors:
+      - family-names: Beckmann
+        given-names: Jürgen
+      - name: "et al."
+  - type: report
+    title: "Global vaccine safety blueprint 2.0 (GVSB2.0) 2021-2023"
+    year: 2021
+    authors:
+      - name: "World Health Organization"
+  - type: report
+    title: "The global smart pharmacovigilance strategy"
+    year: 2025
+    authors:
+      - name: "World Health Organization"

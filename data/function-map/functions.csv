@@ -1,0 +1,41 @@
+id,layer,source_doc,source_ref,title,page,my_group,origin,my_note
+PRE-CT,pre_authorisation,GBT Rev VI (2021),function CT,Clinical trials oversight (safety in clinical trials),,PRE,declared,Outside the GBT Vigilance chapter. Function code and title to be checked against GBT. GVSB2.0 p15 notes safety monitoring is needed pre- and post-marketing
+PRE-MA,pre_authorisation,GBT Rev VI (2021),function MA,"Marketing authorization (incl. initial product information and RMP review before authorization)",,PRE,declared,Outside the GBT Vigilance chapter. Function code and title to be checked against GBT. GVSB2.0 p15: regulators review RMPs prior to authorization. Post-marketing label changes belong to GBT-VL05.01
+GVSB-IV.1A,core,GVSB2.0 (2021),Strategic area IV objective 1 strategy 1A,Spontaneous reporting as the primary pillar of AEFI surveillance,20;40,SR,declared,
+GVSB-IV.1B,core,GVSB2.0 (2021),Strategic area IV objective 1 strategy 1B,Regular review of reports for unexpected patterns and frequencies,20;40,SM,declared,Signal detection step
+GVSB-IV.1C,core,GVSB2.0 (2021),Strategic area IV objective 1 strategy 1C,Identify and quantify public concerns about vaccines,20;40,SM,declared,Overlaps GVSB-V.2
+GVSB-IV.1D,core,GVSB2.0 (2021),Strategic area IV objective 1 strategy 1D,Characterize background rates of conditions temporally associated with vaccination,20;40,SM,declared,Expected values for O/E
+GVSB-IV.1E,core,GVSB2.0 (2021),Strategic area IV objective 1 strategy 1E,Country framework to assess and prioritize vaccine safety signals,20;40,SM,declared,Signal validation and prioritization steps
+GVSB-IV.2A,core,GVSB2.0 (2021),Strategic area IV objective 2 strategy 2A,Investigation of serious AEFIs and high-quality data for causality assessment,21;40,CA,declared,
+GVSB-IV.2B,core,GVSB2.0 (2021),Strategic area IV objective 2 strategy 2B,Intra- and inter-country processes to evaluate signals rapidly,21;40,SM,declared,Signal assessment step
+GVSB-IV.3A,core,GVSB2.0 (2021),Strategic area IV objective 3 strategy 3A,Expert committees for causality assessment of serious AEFIs and clusters,22;40,CA,declared,Individual-level causality
+GVSB-IV.3B,core,GVSB2.0 (2021),Strategic area IV objective 3 strategy 3B,Specific studies to determine whether a confirmed signal is a true adverse reaction,22;40,SM,declared,Population-level causality
+GVSB-IV.3C,core,GVSB2.0 (2021),Strategic area IV objective 3 strategy 3C,Active surveillance and hospital-based sentinel surveillance,22;40,AS,declared,
+GVSB-IV.3D,core,GVSB2.0 (2021),Strategic area IV objective 3 strategy 3D,Coordination of active surveillance studies across countries,22;40,AS,declared,
+GVSB-IV.4,core,GVSB2.0 (2021),Strategic area IV objective 4,Prevent vaccination adverse reactions (incl. use of surveillance findings to prevent immunization errors),22-23;40,PREV,declared,Interface with immunization programme safety (pv_adjacent)
+GVSB-IV.5,core,GVSB2.0 (2021),Strategic area IV objective 5,Capacity to address vaccine-related adverse events and communication response,23;40,RC,declared,
+GVSB-V.1,core,GVSB2.0 (2021),Strategic area V objective 1,Capacity and infrastructure for vaccine safety communication,25;41,RC,declared,
+GVSB-V.2,core,GVSB2.0 (2021),Strategic area V objective 2,Identify and characterize vaccine safety concerns as potential signals,26;41,RC,declared,Overlaps GVSB-IV.1C
+GVSB-V.3,core,GVSB2.0 (2021),Strategic area V objective 3,Crisis communication: what is known and not known and what is being done,27;41,RC,declared,
+GVSB-II.1,core,GVSB2.0 (2021),Strategic area II objective 1,Information exchange between manufacturers (MAHs) and regulators,11-12;38,COORD,declared,
+GVSB-II.2,core,GVSB2.0 (2021),Strategic area II objective 2,Coordination and roles among health authorities and other stakeholders,12;38,COORD,declared,Includes regulators and immunization programmes
+GVSB-II.3,core,GVSB2.0 (2021),Strategic area II objective 3,Coordination with advisory bodies (national vaccine safety committees aligned with NITAGs; GACVS),13;38,COORD,declared,
+GVSB-II.4,core,GVSB2.0 (2021),Strategic area II objective 4,Collaboration with the scientific community (registries of safety studies),13;38,COORD,declared,
+GVSB-II.5,core,GVSB2.0 (2021),Strategic area II objective 5,Communication between health authorities and the populations they serve,14;38,COORD,declared,
+GVSB-III.1,core,GVSB2.0 (2021),Strategic area III objective 1,"Provisions for vaccine PV: laws, regulations, infrastructure, accountability",16;39,FD,declared,
+GVSB-III.2,core,GVSB2.0 (2021),Strategic area III objective 2,"Vaccine PV as a national, regional and international responsibility (networks, data sharing)",17;39,IR,declared,
+GVSB-III.3,core,GVSB2.0 (2021),Strategic area III objective 3,Human resources for regulatory safety surveillance,17;39,FD,declared,
+GVSB-I.G,core,GVSB2.0 (2021),Strategic area I governance objective,Structure for effective decision-making in support of vaccine safety,7;37,GOV,declared,
+GVSB-I.1,core,GVSB2.0 (2021),Strategic area I objective 1,Adequate resources for public vaccine safety systems,8;37,GOV,declared,
+GVSB-I.2,core,GVSB2.0 (2021),Strategic area I objective 2,Funding options appropriate to maturity level,9;37,GOV,declared,
+GVSB-I.3,core,GVSB2.0 (2021),Strategic area I objective 3,Address injuries caused by vaccine reactions or vaccination errors,10;37,GOV,declared,Compensation draws on causality evidence; evidence flows from surveillance to compensation
+GBT-VL04.07,decision,GBT Rev VI (2021),VL04.07,Regular assessment of the risk-benefit balance using vigilance data,138-139,REG,declared,
+GBT-VL05.01,decision,GBT Rev VI (2021),VL05.01,Vigilance information used to amend or issue regulatory decisions (incl. label and RMP changes),140-141,REG,declared,
+MY-IP,decision,,,Immunization policy decisions informed by vaccine safety evidence,,IP,my,"No source ID. Grounded in GVSB2.0 p1 (goal 1: risk-benefit assessments that inform public health policies), II.3 p13 (advisory bodies aligned with NITAGs), V.3 p27 (NRAs and NITAGs use surveillance findings for the risk-benefit profile); Smart PV strategy Annex 1 p52 (GACVS informs SAGE). Parallel to the regulatory decision functions"
+GVSB-VI.1,context,GVSB2.0 (2021),Strategic area VI objective 1,Vaccine safety monitoring as quality assurance in fragile states and emergencies,29;42,CTX,declared,Setting tag rather than a function
+GVSB-VI.2,context,GVSB2.0 (2021),Strategic area VI objective 2,Safety monitoring of novel vaccines in emergencies,30;42,CTX,declared,Setting tag rather than a function
+knowledge,non_function,,,Knowledge needed to assess vaccine AEFI cases or signals,,,my,"Not a function, but prerequisite knowledge for a function (e.g. reaction types for causality assessment). Applies even when vaccines are not in the heading. Candidate for prerequisite edges to functions"
+pv_adjacent,non_function,,,Adjacent to pharmacovigilance,,,my,"Not PV itself but meets PV at a defined interface: an immunization error or quality defect leading to an AEFI or vaccination failure (decision 25). Judged against PV scope, not against any agency"
+out_of_scope,non_function,,,Not used in vaccine pharmacovigilance,,,my,
+ai_application,non_function,,,AI applications to be linked to functions at subsection level,,,my,Curriculum 18.3
+ai_condition,non_function,,,Conditions for applying AI (trustworthiness and validation and accountability),,,my,Curriculum 18.4

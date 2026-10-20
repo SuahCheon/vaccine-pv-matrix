@@ -1,0 +1,14 @@
+id,tier,label,page,origin_label,my_function,origin_function,my_note
+GVSB-A1-M01,minimal_basic,"Dedicated national vaccine PV capacity (designated staff, stable basic funding, clear mandates, defined structures and roles) collaborating with the WHO PIDM",33,declared (paraphrased),GVSB-III.1 | GVSB-III.3 | GVSB-I.1 | GVSB-III.2,interpreted,
+GVSB-A1-M02,minimal_basic,Healthcare workers and others encouraged to report,33,declared (paraphrased),GVSB-IV.1A,interpreted,
+GVSB-A1-M03,minimal_basic,National AEFI reporting form for individual case safety reports,33,declared (paraphrased),GVSB-IV.1A,interpreted,
+GVSB-A1-M04,minimal_basic,"National database or system for collating, managing and retrieving AEFI reports",33,declared (paraphrased),GVSB-IV.1A,interpreted,
+GVSB-A1-M05,minimal_basic,National AEFI review committee for causality assessment of serious AEFIs and clusters,33,declared (paraphrased),GVSB-IV.3A | GVSB-II.3,interpreted,
+GVSB-A1-M06,minimal_basic,Risk communication strategy with preparedness plans for vaccine safety crises,33,declared (paraphrased),GVSB-V.1 | GVSB-V.3 | GVSB-IV.5,interpreted,
+GVSB-A1-M07,minimal_basic,Implemented and harmonized methods and tools for monitoring and investigation of AEFIs,33,declared (paraphrased),GVSB-IV.2A | GVSB-IV.1A,interpreted,
+GVSB-A1-M08,minimal_managerial,Regulatory framework defining provisions for monitoring and management of AEFIs,33,declared (paraphrased),GVSB-III.1,interpreted,
+GVSB-A1-M09,minimal_managerial,Clear lines of accountability for vaccine safety work,33,declared (paraphrased),GVSB-III.1 | GVSB-I.G,interpreted,
+GVSB-A1-M10,minimal_managerial,Institutional development plan with performance indicators,33,declared (paraphrased),GVSB-I.G,interpreted,GBT-VL05.02 is the matching GBT sub-indicator
+GVSB-A1-M11,minimal_managerial,Periodic evaluation and revision of the IDP; commitment to share vaccine safety information with other countries,33,declared (paraphrased),GVSB-I.G | GVSB-III.2,interpreted,
+GVSB-A1-E01,enhanced,"Active surveillance of AESIs, beyond spontaneous reporting, for signal detection",33,declared (paraphrased),GVSB-IV.3C | GVSB-IV.1D,interpreted,
+GVSB-A1-E02,enhanced,Epidemiological studies to test hypotheses,33,declared (paraphrased),GVSB-IV.3B,interpreted,

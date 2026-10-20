@@ -1,0 +1,13 @@
+id,axis,source_doc,source_ref,page,band,term,label,origin,my_note
+SPV-F4-below_ML3-short,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,below_ML3,short term (<2 years),"Min PV, Reliance",declared,Checked against rendered figure 2026-10-16
+SPV-F4-below_ML3-medium,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,below_ML3,medium term (<5 years),"Capacity, Competence",declared,Checked against rendered figure 2026-10-16
+SPV-F4-below_ML3-long,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,below_ML3,long term (5 years or more),Expand scope,declared,Checked against rendered figure 2026-10-16
+SPV-F4-at_ML3-short,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,at_ML3,short term (<2 years),"In addition, Pilots",declared,Checked against rendered figure 2026-10-16
+SPV-F4-at_ML3-medium,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,at_ML3,medium term (<5 years),"Collaboration, Work-sharing",declared,Checked against rendered figure 2026-10-16
+SPV-F4-at_ML3-long,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,at_ML3,long term (5 years or more),Expand scope,declared,Checked against rendered figure 2026-10-16
+SPV-F4-above_ML3-short,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,above_ML3,short term (<2 years),"In addition, Technical support",declared,Checked against rendered figure 2026-10-16
+SPV-F4-above_ML3-medium,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,above_ML3,medium term (<5 years),Sentinel sites,declared,Checked against rendered figure 2026-10-16
+SPV-F4-above_ML3-long,maturity_x_term,Smart PV strategy (WHO 2025),Fig. 4,16,above_ML3,long term (5 years or more),Expand scope,declared,Checked against rendered figure 2026-10-16
+GVSB-ML1-4,maturity_level,GVSB2.0 (2021),Fig. 1; Table 1; Annex 2,3-4;34-36,,,Four GBT maturity levels (1 no formal approach; 2 reactive; 3 stable formal system; 4 continued improvement),declared,GVSB2.0 moves from minimal/enhanced capacity to GBT maturity levels
+GVSB-A1-minimal,capacity_tier,GVSB2.0 (2021),Annex 1 (GVSB1.0 minimal capacity),33,,,Minimal capacity: basic elements and managerial elements,declared,See roadmap-capacity-elements.csv
+GVSB-A1-enhanced,capacity_tier,GVSB2.0 (2021),Annex 1 (GVSB1.0 enhanced capacity),33,,,Enhanced capacity: active surveillance of AESIs; epidemiological studies to test hypotheses,declared,
